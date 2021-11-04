@@ -26,6 +26,7 @@ model = torch.load('model.pt')
 classes = get_classes()
 
 # start to predict test data
+print("Start to generate answer.txt file...")
 model.eval()
 test_dir = './dataset/testing_images/'
 with open('testing_img_order.txt') as f:
@@ -47,4 +48,4 @@ with open('testing_img_order.txt') as f:
 
 # save result as an answer file
 np.savetxt('answer.txt', submission, fmt='%s')
-print("answer.txt file is generted.")
+print("answer.txt file is generated.")
