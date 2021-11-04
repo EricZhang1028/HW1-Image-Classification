@@ -9,10 +9,10 @@ To re-train my model, do the following steps:
 
 ## Reproducing Submission
 To reporduct my submission without retraining, do the following steps:
-1. Install **torch**, **numpy** and **matplotlib**
-2. Download **inference.py** and **model.pt** by [this link](https://drive.google.com/drive/folders/1wtAgh4C-B7gIhes0MzAKbakclJ8FRcvZ?usp=sharing).
-3. Place **inference.py** and **model.pt** in the same directory.
-4. run the following command to re-produce submission file.
+1. Install **torch**, **numpy** and **matplotlib**.
+2. Clone this repository.
+3. Download **model.pt** by [this link](https://drive.google.com/drive/folders/1wtAgh4C-B7gIhes0MzAKbakclJ8FRcvZ?usp=sharing), and put **model.pt** to the step2 repository.
+3. In this repository, run the following commands to re-produce submission file.
 > python3 inference.py
 
 > zip 310551135_submission.zip answer.txt
