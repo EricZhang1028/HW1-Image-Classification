@@ -1,0 +1,228 @@
+batch_size: 8, lr: 0.03, epochs: 30
+Test Accuracy: 41% (124/296)
+====================
+batch_size: 8, lr: 0.03, epochs: 90
+Test Accuracy: 59% (175/296)
+====================
+batch_size: 8, lr: 0.03, epochs: 150
+Test Accuracy: 54% (160/296)
+====================
+batch_size: 8, lr: 0.03, epochs: 200
+Test Accuracy: 55% (163/296)
+====================
+batch_size: 8, lr: 0.008, epochs: 30
+Test Accuracy: 56% (166/296)
+====================
+batch_size: 8, lr: 0.008, epochs: 90
+Test Accuracy: 56% (167/296)
+====================
+batch_size: 8, lr: 0.008, epochs: 150
+Test Accuracy: 59% (176/296)
+====================
+batch_size: 8, lr: 0.008, epochs: 200
+Test Accuracy: 60% (179/296)
+====================
+batch_size: 8, lr: 0.005, epochs: 30
+Test Accuracy: 61% (182/296)
+====================
+batch_size: 8, lr: 0.005, epochs: 90
+Test Accuracy: 56% (167/296)
+====================
+batch_size: 8, lr: 0.005, epochs: 150
+Test Accuracy: 65% (194/296)
+====================
+batch_size: 8, lr: 0.005, epochs: 200
+Test Accuracy: 52% (156/296)
+====================
+batch_size: 8, lr: 0.001, epochs: 90
+Test Accuracy: 55% (165/296)
+====================
+batch_size: 8, lr: 0.001, epochs: 200
+Test Accuracy: 57% (171/296)
+====================
+batch_size: 8, lr: 0.0008, epochs: 90
+Test Accuracy: 48% (144/296)
+====================
+batch_size: 8, lr: 0.0008, epochs: 200
+Test Accuracy: 48% (143/296)
+====================
+batch_size: 16, lr: 0.03, epochs: 30
+Test Accuracy: 51% (149/288)
+====================
+batch_size: 16, lr: 0.03, epochs: 90
+Test Accuracy: 55% (159/288)
+====================
+batch_size: 16, lr: 0.03, epochs: 150
+Test Accuracy: 55% (160/288)
+====================
+batch_size: 16, lr: 0.03, epochs: 200
+Test Accuracy: 55% (159/288)
+====================
+batch_size: 16, lr: 0.008, epochs: 30
+Test Accuracy: 56% (164/288)
+====================
+batch_size: 16, lr: 0.008, epochs: 90
+Test Accuracy: 54% (157/288)
+====================
+batch_size: 16, lr: 0.008, epochs: 150
+Test Accuracy: 55% (159/288)
+====================
+batch_size: 16, lr: 0.008, epochs: 200
+Test Accuracy: 54% (157/288)
+====================
+batch_size: 16, lr: 0.005, epochs: 30
+Test Accuracy: 52% (152/288)
+====================
+batch_size: 16, lr: 0.005, epochs: 90
+Test Accuracy: 56% (162/288)
+====================
+batch_size: 16, lr: 0.005, epochs: 150
+Test Accuracy: 53% (155/288)
+====================
+batch_size: 16, lr: 0.005, epochs: 200
+Test Accuracy: 55% (160/288)
+====================
+batch_size: 16, lr: 0.001, epochs: 30
+Test Accuracy: 58% (169/288)
+====================
+batch_size: 16, lr: 0.001, epochs: 90
+Test Accuracy: 51% (148/288)
+====================
+batch_size: 16, lr: 0.001, epochs: 150
+Test Accuracy: 54% (156/288)
+====================
+batch_size: 16, lr: 0.001, epochs: 200
+Test Accuracy: 61% (177/288)
+====================
+batch_size: 16, lr: 0.0008, epochs: 30
+Test Accuracy: 53% (154/288)
+====================
+batch_size: 16, lr: 0.0008, epochs: 90
+Test Accuracy: 53% (153/288)
+====================
+batch_size: 16, lr: 0.0008, epochs: 150
+Test Accuracy: 57% (165/288)
+====================
+batch_size: 16, lr: 0.0008, epochs: 200
+Test Accuracy: 59% (171/288)
+====================
+batch_size: 32, lr: 0.03, epochs: 30
+Test Accuracy: 60% (175/288)
+====================
+batch_size: 32, lr: 0.03, epochs: 90
+Test Accuracy: 57% (167/288)
+====================
+batch_size: 32, lr: 0.03, epochs: 150
+Test Accuracy: 57% (167/288)
+====================
+batch_size: 32, lr: 0.03, epochs: 200
+Test Accuracy: 56% (162/288)
+====================
+batch_size: 32, lr: 0.008, epochs: 30
+Test Accuracy: 59% (172/288)
+====================
+batch_size: 32, lr: 0.008, epochs: 90
+Test Accuracy: 52% (151/288)
+====================
+batch_size: 32, lr: 0.008, epochs: 150
+Test Accuracy: 59% (170/288)
+====================
+batch_size: 32, lr: 0.008, epochs: 200
+Test Accuracy: 53% (155/288)
+====================
+batch_size: 32, lr: 0.005, epochs: 30
+Test Accuracy: 59% (170/288)
+====================
+batch_size: 32, lr: 0.005, epochs: 90
+Test Accuracy: 57% (167/288)
+====================
+batch_size: 32, lr: 0.005, epochs: 150
+Test Accuracy: 57% (166/288)
+====================
+batch_size: 32, lr: 0.005, epochs: 200
+Test Accuracy: 56% (162/288)
+====================
+batch_size: 32, lr: 0.001, epochs: 30
+Test Accuracy: 48% (141/288)
+====================
+batch_size: 32, lr: 0.001, epochs: 90
+Test Accuracy: 56% (162/288)
+====================
+batch_size: 32, lr: 0.001, epochs: 150
+Test Accuracy: 52% (151/288)
+====================
+batch_size: 32, lr: 0.001, epochs: 200
+Test Accuracy: 59% (171/288)
+====================
+batch_size: 32, lr: 0.0008, epochs: 30
+Test Accuracy: 51% (148/288)
+====================
+batch_size: 32, lr: 0.0008, epochs: 90
+Test Accuracy: 56% (163/288)
+====================
+batch_size: 32, lr: 0.0008, epochs: 150
+Test Accuracy: 51% (147/288)
+====================
+batch_size: 32, lr: 0.0008, epochs: 200
+Test Accuracy: 56% (164/288)
+====================
+batch_size: 64, lr: 0.03, epochs: 30
+Test Accuracy: 57% (147/256)
+====================
+batch_size: 64, lr: 0.03, epochs: 90
+Test Accuracy: 54% (139/256)
+====================
+batch_size: 64, lr: 0.03, epochs: 150
+Test Accuracy: 55% (142/256)
+====================
+batch_size: 64, lr: 0.03, epochs: 200
+Test Accuracy: 59% (153/256)
+====================
+batch_size: 64, lr: 0.008, epochs: 30
+Test Accuracy: 63% (162/256)
+====================
+batch_size: 64, lr: 0.008, epochs: 90
+Test Accuracy: 57% (148/256)
+====================
+batch_size: 64, lr: 0.008, epochs: 150
+Test Accuracy: 59% (153/256)
+====================
+batch_size: 64, lr: 0.008, epochs: 200
+Test Accuracy: 55% (141/256)
+====================
+batch_size: 64, lr: 0.005, epochs: 30
+Test Accuracy: 56% (145/256)
+====================
+batch_size: 64, lr: 0.005, epochs: 90
+Test Accuracy: 60% (156/256)
+====================
+batch_size: 64, lr: 0.005, epochs: 150
+Test Accuracy: 57% (147/256)
+====================
+batch_size: 64, lr: 0.005, epochs: 200
+Test Accuracy: 53% (136/256)
+====================
+batch_size: 64, lr: 0.001, epochs: 30
+Test Accuracy: 42% (110/256)
+====================
+batch_size: 64, lr: 0.001, epochs: 90
+Test Accuracy: 52% (134/256)
+====================
+batch_size: 64, lr: 0.001, epochs: 150
+Test Accuracy: 50% (129/256)
+====================
+batch_size: 64, lr: 0.001, epochs: 200
+Test Accuracy: 50% (129/256)
+====================
+batch_size: 64, lr: 0.0008, epochs: 30
+Test Accuracy: 40% (103/256)
+====================
+batch_size: 64, lr: 0.0008, epochs: 90
+Test Accuracy: 51% (133/256)
+====================
+batch_size: 64, lr: 0.0008, epochs: 150
+Test Accuracy: 50% (128/256)
+====================
+batch_size: 64, lr: 0.0008, epochs: 200
+Test Accuracy: 50% (130/256)
+====================
