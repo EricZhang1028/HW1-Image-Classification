@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 img_size = 224
 batch_size = 8
 lr = 0.005
-epochs = 50
+epochs = 150
 
 # define training set transform
 transforms_train = torchvision.transforms.Compose([
